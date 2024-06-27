@@ -1,4 +1,5 @@
 # LLMs-RAG
+pip install tqdm notebook==7.1.2 openai elasticsearch pandas scikit-learn ipywidgets
 Implementing an augmented search using LLMs
 docker run -it \
     --rm \
