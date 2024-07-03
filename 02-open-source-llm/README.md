@@ -1,4 +1,5 @@
-pip install tqdm notebook==7.1.2 openai elasticsearch pandas scikit-learn ipywidgets
+pip install tqdm notebook==7.1.2 openai elasticsearch pandas scikit-learn ipywidgets 
+pip install python-dotenv
 
 https://huggingface.co/google/flan-t5-xl
 Explanation of Parameters:
