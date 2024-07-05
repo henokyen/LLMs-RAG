@@ -9,3 +9,6 @@ num_beams: Increasing this can lead to more thorough exploration of possible seq
 do_sample: Set this to True to use sampling methods. This can produce more diverse responses.
 temperature: Lowering this value makes the model more confident and deterministic, while higher values increase diversity. Typical values range from 0.7 to 1.5.
 top_k and top_p: These parameters control nucleus sampling. top_k limits the sampling pool to the top k tokens, while top_p uses cumulative probability to cut off the sampling pool. Adjust these based on the desired level of randomness.
+
+the best way to run llms on local computer is to use
+https://github.com/ollama/ollama
