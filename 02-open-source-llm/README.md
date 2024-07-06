@@ -29,3 +29,6 @@ docker run -it \
 
 use the following command to see if port 11434 is occupied or free
 sudo lsof -i :11434
+
+to remove ollama from your linux system use the following blog post
+https://collabnix.com/how-to-uninstall-ollama/
