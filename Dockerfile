@@ -1,2 +1,2 @@
 FROM ollama/ollama 
-COPY ../ollama_files /root/.ollama
+COPY ollama_files /root/.ollama
